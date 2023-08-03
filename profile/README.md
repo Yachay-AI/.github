@@ -8,4 +8,8 @@
 
 Yachay is an open-source platform for Machine Learning. It has collected decades worth of useful natural language data from traditional media (i.e. New York Times articles), social media (i.e. Twitter & Reddit), messenger channels, tech blogs, GitHub profiles and issues, the dark web, and legal proceedings, as well as the decisions and publications of government regulators and legislators all across the world. Our team has cleaned and annotated this data, prepared the infrastructure, and released a state-of-the-art Geolocation Detection tool. 
 
-Our challanges is an open call for all Machine Learning developers and researchers to help us build and improve upon the existing geotagging models.
+### Our challanges is an open call for all Machine Learning developers and researchers to help us build and improve upon the existing geotagging models:
+
+- [Contributing.md](https://github.com/Yachay-AI/byt5-geotagging/blob/master/CONTRIBUTING.md) 
+- [Code of Conduct](https://github.com/1712n/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+- [License](https://github.com/Yachay-AI/byt5-geotagging/blob/master/LICENSE.md)
